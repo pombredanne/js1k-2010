@@ -2,6 +2,8 @@
 
 An elastic twister effect created in 2010 for the [first JS1k](http://js1k.com/2010-first/) competition.
 
+![](twister.gif)
+
 You can view and run the entry at http://js1k.com/2010-first/demo/213.
 
 
